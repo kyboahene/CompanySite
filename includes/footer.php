@@ -33,7 +33,7 @@
 
       <ul class="list-unstyled">
         <li>
-          <a class="links" href="Agric_site.php">Home</a>
+          <a class="links" href="index.php">Home</a>
         </li>
         <li>
           <a class="links" href="about.php">About</a>

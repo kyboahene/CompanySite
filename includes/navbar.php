@@ -6,7 +6,7 @@
              <a class="navbar-brand " href="#home"><img src="pics/agric2.png" alt="" style="max-width:40%; max-height:30%;"></a>
              <div class="collapse navbar-collapse nav-pills" id="mainNav">
                  <div class="navbar-nav ml-auto ">
-                     <a id="index" class= "nav-item nav-link mx-3"href="Agric_site.php">HOME</a>
+                     <a id="index" class= "nav-item nav-link mx-3"href="index.php">HOME</a>
                      <a id="about" class= "nav-item nav-link mx-3"href="about.php">ABOUT</a>
                      <a id="services" class= "nav-item nav-link mx-3"href="services.php">SERVICES</a>
                      <a id="portfolio" class= "nav-item nav-link mx-3"href="#portfolio">PORTFOLIO</a>
